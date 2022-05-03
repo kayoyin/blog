@@ -39,6 +39,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  math: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
