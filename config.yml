@@ -59,10 +59,12 @@ params:
     Content: I'm an incoming PhD student at UC Berkeley. I write about ML/NLP research, tips for grad school, and personal stories. You can find my older blog posts on [medium](https://medium.com/@kayo.yin). I also [vlog](https://youtube.com/playlist?list=PLQRDjZrFKXcpL2j5jekIgpju9FPFo08tm) sometimes.
 
   socialIcons:
-    - name: googlescholar
-      url: "https://scholar.google.com/citations?user=Wc8oLVwAAAAJ&hl=en"
+    - name: website
+      url: "https://kayoyin.github.io"
     - name: twitter
       url: "https://twitter.com/kayo_yin"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=Wc8oLVwAAAAJ&hl=en"
     - name: github
       url: "https://github.com/kayoyin"
     - name: linkedin
@@ -96,10 +98,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
     - identifier: tags
       name: tags
       url: /tags/
@@ -108,10 +106,6 @@ menu:
       name: 🔍 search
       url: /search/
       weight: 5
-    - identifier: homepage
-      name: website
-      url: https://kayoyin.github.io
-      weight: 30
 outputs:
   home:
       - HTML
