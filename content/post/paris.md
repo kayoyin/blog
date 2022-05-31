@@ -27,13 +27,15 @@ type: post
 
 > *I was feeling particularly nostalgic about my childhood in Paris tonight, and I remembered this speech I wrote when I was 17. It is pretty silly and a little cringeworthy, but I wanted to discreetly share it here.*
 
+![Architecture of Paris](/blog/post/images/paris-buildings.jpeg)
+
+
 Do you remember your first love? I just turned 6 when I met mine. Don't worry, this speech is not about some sappy romance. I can't tell when, how or why exactly I fell in love with Paris, but by the time I realized, I saw Paris in all my habits, my hobbies, myself.
 
 
 
 I come from a little town in Japan in the middle of nowhere, that nobody has heard of. So moving to Paris, was as you can imagine, quite the culture shock. I still remember the first time I came to Paris. I fell asleep during the flight and when I woke up in the hotel, the first thing I saw was the elegant streets and fancy buildings of Trocadéro outside my window. The first thing I said was, "Am I in Cinderella's castle?". For 6-year old me back then, I felt like I fell in a Disney movie. 
 
-![Architecture of Paris](/blog/post/images/paris-buildings.jpeg)
 
 
 I guess moving to Paris is my own Cinderella story, and I am not simply talking about my wardrobe transformation after my mom discovered *Les Soldes*. France is my Prince Charming who gave me the wealth of art and culture.

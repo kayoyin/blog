@@ -44,7 +44,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "https://cdn-icons.flaticon.com/png/512/523/premium/523444.png?token=exp=1654019661~hmac=00bfb586aee600e5093c2afeb3681a9d"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -53,10 +53,10 @@ params:
   label:
     text: "Kayo's Blog"
 
-  # # home-info mode
-  # homeInfoParams:
-  #   Title: "Kayo's Blog"
-  #   Content: 
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi I'm Kayo,"
+    Content: I'm an incoming PhD student at UC Berkeley. I write about ML/NLP research, tips for grad school, and personal stories. You can find my older blog posts on [medium](https://medium.com/@kayo.yin).
 
   socialIcons:
     - name: googlescholar
