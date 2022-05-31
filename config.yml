@@ -44,7 +44,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://cdn-icons-png.flaticon.com/512/2612/2612067.png"
+    favicon: "https://cdn-icons.flaticon.com/png/512/1049/premium/1049427.png?token=exp=1654021335~hmac=46353f21f6b5746e2e1177b33c6df268"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
