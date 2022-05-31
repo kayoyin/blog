@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: true
 math: true
-summary: "I was feeling particularly nostalgic about my childhood in Paris tonight, and I remembered this speech I wrote when I was 18. It is a little silly, but I wanted to discreetly share it here."
+summary: "I was feeling particularly nostalgic about my childhood in Paris tonight, and I remembered this speech I wrote when I was 17. It is pretty silly and a little cringeworthy, but I wanted to discreetly share it here."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 type: post
 ---
 
-> *I was feeling particularly nostalgic about my childhood in Paris tonight, and I remembered this speech I wrote when I was 17. It is pretty silly, a bit cringeworthy, but I wanted to discreetly share it here.*
+> *I was feeling particularly nostalgic about my childhood in Paris tonight, and I remembered this speech I wrote when I was 17. It is pretty silly and a little cringeworthy, but I wanted to discreetly share it here.*
 
 Do you remember your first love? I just turned 6 when I met mine. Don't worry, this speech is not about some sappy romance. I can't tell when, how or why exactly I fell in love with Paris, but by the time I realized, I saw Paris in all my habits, my hobbies, myself.
 
