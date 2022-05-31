@@ -4,7 +4,7 @@ date: 2022-05-30T23:44:52-04:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
-categories: ["tool"]
+categories: ["story"]
 tags: ["misc"]
 author: ["Kayo Yin"] # multiple authors
 showToc: false
