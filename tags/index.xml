@@ -9,7 +9,16 @@
       <link>https://kayoyin.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 14:36:16 -0400</lastBuildDate><atom:link href="https://kayoyin.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 23:44:52 -0400</lastBuildDate><atom:link href="https://kayoyin.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>misc</title>
+      <link>https://kayoyin.github.io/blog/tags/misc/</link>
+      <pubDate>Mon, 30 May 2022 23:44:52 -0400</pubDate>
+      
+      <guid>https://kayoyin.github.io/blog/tags/misc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>machine learning</title>
       <link>https://kayoyin.github.io/blog/tags/machine-learning/</link>
