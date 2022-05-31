@@ -56,7 +56,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi I'm Kayo,"
-    Content: I'm an incoming PhD student at UC Berkeley. I write about ML/NLP research, tips for grad school, and personal stories. You can find my older blog posts on [medium](https://medium.com/@kayo.yin).
+    Content: I'm an incoming PhD student at UC Berkeley. I write about ML/NLP research, tips for grad school, and personal stories. You can find my older blog posts on [medium](https://medium.com/@kayo.yin). I also [vlog](https://youtube.com/playlist?list=PLQRDjZrFKXcpL2j5jekIgpju9FPFo08tm) sometimes.
 
   socialIcons:
     - name: googlescholar
