@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: true
 math: true
-summary: "In this project, we visualize songs using images that pulsate and move along with the music using Compositional Pattern Producing Networks (CPPN). In addition, the images we use are recognizable or reminiscent of the songs themselves to help viewers feel a connection with the music and gain a deeper appreciation for it."
+summary: "In this project, we visualize songs using images that pulsate and move along with the music using Compositional Pattern Producing Networks (CPPN)."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
