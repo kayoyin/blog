@@ -1,3 +1,2 @@
- hugo new --kind post <name>
-
- hugo -D
+ hugo new --kind post <path>
+ hugo -D (server)
